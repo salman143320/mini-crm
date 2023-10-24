@@ -1,0 +1,1 @@
+<h1>New Company <?php echo e($name); ?> Registered Sccessfully</h1><?php /**PATH C:\xampp\htdocs\minicrm\resources\views/mail.blade.php ENDPATH**/ ?>

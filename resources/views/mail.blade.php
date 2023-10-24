@@ -1,0 +1,1 @@
+<h1>New Company {{$name}} Registered Sccessfully</h1>
